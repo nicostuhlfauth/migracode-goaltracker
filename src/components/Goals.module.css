@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: fit-content;
+  padding: 24px;
+}
+
+.input {
+  padding: 1px 24px;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 12px;
+}
